@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+#navbar {
+  display: flex;
+  height: 60px;
+  width: 100%;
+  background-color: rgb(63, 200, 242);
+  justify-content: space-evenly;
+  font-size: 20px;
+  font-weight: 500;
+  align-items: center;
+  border-radius: 10px;
+}
+.doubt-list{
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: space-evenly;
+}
+.doubt-item{
+  border: 1px solid rgb(206, 7, 54);
+  padding: 10px;
+  border-radius: 10px
+}
